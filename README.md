@@ -3,7 +3,7 @@ Arduino code for the edge lit LED sign featured in Super Make Something episode 
 
 Instructions for this project can be found here: https://youtu.be/kjWepTJXwxw
 
-CAD files for the project can be found here: LINK COMING SOON!
+CAD files for the project can be found here: https://www.thingiverse.com/thing:4316257
 
 by: Alex - Super Make Something
 
